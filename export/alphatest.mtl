@@ -1,0 +1,11 @@
+#material information for object 0
+
+newmtl alphatest0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 2
+map_Ka export/alphatest0.tga
+map_Kd export/alphatest0.tga
+map_Ks export/alphatest0.tga

@@ -1,0 +1,11 @@
+#material information for object 0
+
+newmtl darkbark0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 2
+map_Ka export/darkbark0.tga
+map_Kd export/darkbark0.tga
+map_Ks export/darkbark0.tga
