@@ -11,3 +11,6 @@ Only tested on Windows 10 with a 64 bit machine. Project should build fine as-is
 ![](http://www.synert.co.uk/images/code/plants2.png)
 
 ![](http://www.synert.co.uk/images/code/plants3.png)
+
+### Development videos
+(Youtube)[https://www.youtube.com/watch?v=Jt7Cm9l_9As&list=PL-l8ezR--_whGssa-vatS7wifI5tR4QY3]
